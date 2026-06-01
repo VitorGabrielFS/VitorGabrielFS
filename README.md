@@ -1,62 +1,50 @@
-# Olá, eu sou o Vitor Gabriel 👋
+# Vitor Gabriel
 
-🎓 Estudante de Desenvolvimento de Sistemas
+Estudante de Desenvolvimento de Sistemas com foco em Python, Visão Computacional, Inteligência Artificial e desenvolvimento de aplicações.
 
-💻 Apaixonado por Python, Inteligência Artificial e Visão Computacional.
-
-🚀 Atualmente desenvolvendo projetos envolvendo:
-- OpenCV
-- MediaPipe
-- Flask
-- Automação
-- Godot
-- Inteligência Artificial
-
----
-
-## Projetos em Destaque
-
-### SeeMe
-Sistema de acessibilidade com controle ocular, gestos, voz e reconhecimento de LIBRAS.
-
-🔗 https://github.com/VitorGabrielFS/multi-touch
-
-### Visual Touch
-Controle do computador utilizando rastreamento ocular.
-
-### Assistente Virtual
-Assistente desenvolvida em Python com reconhecimento de voz e automação.
+Atualmente desenvolvendo projetos relacionados a acessibilidade digital, automação, reconhecimento de imagem e sistemas web.
 
 ---
 
 ## Tecnologias
 
-![Python](https://skillicons.dev/icons?i=python)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,opencv,sqlite,html,css,js,git,github,linux,godot,vscode" />
+</p>
 
-![Flask](https://skillicons.dev/icons?i=flask)
+---
 
-![Git](https://skillicons.dev/icons?i=git)
+## Projetos
 
-![Github](https://skillicons.dev/icons?i=github)
+### SeeMe
+Plataforma de acessibilidade que combina rastreamento ocular, reconhecimento de gestos, comandos de voz e reconhecimento de LIBRAS utilizando OpenCV, MediaPipe e Flask.
 
-![SQLite](https://skillicons.dev/icons?i=sqlite)
+**Tecnologias:** Python, OpenCV, MediaPipe, Flask, SQLite
 
-![Linux](https://skillicons.dev/icons?i=linux)
+
+### Assistente Virtual
+Assistente desenvolvida em Python com reconhecimento de voz, automação de tarefas e integração com aplicações do sistema operacional.
+
+**Tecnologias:** Python, SpeechRecognition, PyAutoGUI
+
+### Galeria 3D
+Projeto desenvolvido na Godot explorando mecânicas de exploração, interação e ambientes tridimensionais.
+
+**Tecnologias:** Godot, GDScript
 
 ---
 
 ## Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=VitorGabrielFS&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGabrielFS&layout=compact)
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VitorGabrielFS&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGabrielFS&layout=compact&hide_border=true" />
+</p>
 
 ---
 
 ## Contato
 
-📧 vgabrielsilva.dev@gmail.com
+LinkedIn: www.linkedin.com/in/gabrielfsilva
 
-💼 www.linkedin.com/in/gabrielfsilva
-
-🐙 https://github.com/VitorGabrielFS
+Email: vgabrielsilva.dev@gmail.com
