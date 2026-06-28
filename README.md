@@ -1,6 +1,6 @@
 # Vitor Gabriel
 
-Estudante de Desenvolvimento de Sistemas com foco em Python, Visão Computacional, Inteligência Artificial e desenvolvimento de aplicações.
+Formação técnica em Analise e desenvolvimento de sistemas, estudante de Engenharia de Software. Foco em Python, Visão Computacional, Inteligência Artificial e desenvolvimento de aplicações.
 
 Atualmente desenvolvendo projetos relacionados a acessibilidade digital, automação, reconhecimento de imagem e sistemas web.
 
